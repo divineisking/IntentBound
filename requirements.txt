@@ -1,0 +1,21 @@
+# IntentBound: Core Evaluation Dependencies (micro1 Eval Hackathon)
+# Pure Python, ultra-lightweight (<50 MB package constraint)
+# Zero external cloud/network dependencies required for local evaluation
+
+# Core schema validation & data models
+pydantic>=2.4.0
+
+# Terminal formatting and tables (graceful ASCII fallback if not present)
+rich>=13.5.0
+
+# Configuration & data serialization
+pyyaml>=6.0
+
+# Test runner and verification
+pytest>=7.4.0
+
+# --- Optional Frontier LLM Connectors ---
+# Uncomment or install separately for live API evaluations:
+# openai>=1.3.0
+# anthropic>=0.20.0
+# litellm>=1.30.0

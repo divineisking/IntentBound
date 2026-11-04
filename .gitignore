@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & local config
+.venv/
+venv/
+ENV/
+.env
+
+# Test & coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Internal agent / workflow metadata
+.agents/
+.licenses/
+PROJECT.md
+TEST_INFRA.md
+TEST_READY.md
+
+# Packaged submission archive
+intentbound_submission.zip
