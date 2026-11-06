@@ -1,7 +1,7 @@
 {
   "benchmark": "IntentBound",
   "version": "1.0.0",
-  "timestamp": "2026-11-04T11:37:03.438179+00:00",
+  "timestamp": "2026-11-05T10:03:37.376735+00:00",
   "total_scenarios": 12,
   "agents": {
     "mock:careful_compliant": {
